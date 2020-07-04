@@ -297,18 +297,18 @@
 		<key>ROM</key>
 		<string>UseMacAddr0</string>
 		<key>MLB</key>
-		<string>C02742100CDJG361M</string>
+		<string>Add Yours</string>
 	</dict>
 	<key>SMBIOS</key>
 	<dict>
 		<key>BoardSerialNumber</key>
-		<string>C02742100CDJG361M</string>
+		<string>Add Yours</string>
 		<key>ProductName</key>
 		<string>iMac18,1</string>
 		<key>SerialNumber</key>
-		<string>C02WQHYUH7JY</string>
+		<string>Add Yours</string>
 		<key>SmUUID</key>
-		<string>A261A865-191A-4FD4-A97D-F53FFC67A76E</string>
+		<string>Add Yours</string>
 	</dict>
 	<key>SystemParameters</key>
 	<dict>
