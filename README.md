@@ -1,5 +1,7 @@
-# gigabyte-b360m-hd3-hackintosh-efi
-Gigabyte B360M HD3 Hackintosh EFI Folder For MacOS High Sierra
+# Disclaimer
+I am not responsible for any damage caused to your components, data loss, or anything else that may happen throughout this process. Follow this guide at your own risk! The steps listed below worked for my components.
+
+This is an educational purpose only, potential mac users can try the flavor before investing in that ecosystem.
 
 I didn't have access to a mac\
 I have used .dmg from [Hackintoshzone](https://www.hackintoshzone.com/files/file/1044-niresh-high-sierra/)
