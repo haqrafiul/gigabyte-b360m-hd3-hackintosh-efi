@@ -33,3 +33,7 @@ I have used .dmg from [Hackintoshzone](https://www.hackintoshzone.com/files/file
 
 - [ ] Get full acceleration from iGPU
 - [ ] Built it using Olarial High Sierra Package
+
+**** You need to generate SmUUID, SerialNumber, BoardSerialNumber (MLB same) using [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) 
+
+and input that into config.plist using [ProperTree](https://github.com/corpnewt/ProperTree)****
