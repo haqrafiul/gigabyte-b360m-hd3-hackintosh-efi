@@ -4,7 +4,7 @@ I am not responsible for any damage caused to your components, data loss, or any
 This is an educational purpose only, potential mac users can try the flavor before investing in that ecosystem.
 
 I didn't have access to a mac\
-I have used .dmg from [Hackintoshzone](https://www.hackintoshzone.com/files/file/1044-niresh-high-sierra/)
+I have used .raw from [Olarila](https://www.olarila.com/topic/6278-new-vanilla-olarila-images/) to make my boot image
 
 ## My Hardware
 - CPU: Intel i5 8400
@@ -15,7 +15,7 @@ I have used .dmg from [Hackintoshzone](https://www.hackintoshzone.com/files/file
 - Monitor: LG IPS FULLHD (1920x1080@59Hz) connected via HDMI 1.4
 
 ## Bios Settings
-- Bios Version: F3
+- Bios Version: F11
 - Loaded optimised default then
 
 ### disabled
@@ -29,12 +29,12 @@ I have used .dmg from [Hackintoshzone](https://www.hackintoshzone.com/files/file
 - USB Mouse/Keyboard
 
 ## What's Not Working
-- GPU only 7 MB
+~~GPU only 7 MB~~ GPU is working fine
 
 ## Task List
 
-- [ ] Get full acceleration from iGPU
-- [ ] Built it using Olarial High Sierra Package
+- [X] Get full acceleration from iGPU
+- [X] Built it using Olarial High Sierra Package
 
 **** You need to generate SmUUID, SerialNumber, BoardSerialNumber (MLB same) using [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) 
 
