@@ -20,11 +20,17 @@ I have used .raw from [Olarila](https://www.olarila.com/topic/6278-new-vanilla-o
 ## Bios Settings
 - Bios Version: F11
 - Loaded optimised default then
+- Peripherals >>> Initial Display Output >>> select IGFX
+- Biso >>> Windows 8/10 Features >>> select Other OS
 
 ### disabled
-
+#### Bios
+CSM Support
+#### Peripherals
+Super IO Configuration >>> Serial Port
 ### enabled
-
+#### Chipset
+Above 4G Decoding
 ## What's Working
 - Sleep/Restart/Shut Down
 - Audio
@@ -38,6 +44,7 @@ I have used .raw from [Olarila](https://www.olarila.com/topic/6278-new-vanilla-o
 
 - [X] Get full acceleration from iGPU
 - [X] Built it using Olarial High Sierra Package
+- [ ] Add Geekbench 5 Score comparison
 
 **** You need to generate SmUUID, SerialNumber, BoardSerialNumber (MLB same) using [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) 
 
